@@ -1,6 +1,6 @@
 <!-- Documentation to compile the following codes -->
 
-# Active Learning OOP
+# Active Learning Object Oroented Programming (OOP)
 
 ## Parallel and Concurrent programming with C++
 
